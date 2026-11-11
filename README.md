@@ -1,6 +1,6 @@
 # 🍲 FeastMode 
 
-**FeastMode** is a modern Android application built using **Jetpack Compose** and **Clean Architecture (MVVM)**. It allows users to explore recipes fetched from a remote REST API as well as create, edit, view, and manage custom recipes stored in a local **Room Database**.
+**FeastMode** is a modern Android application built using **Jetpack Compose** and **Clean Architecture**. It allows users to explore recipes fetched from a remote REST API as well as create, edit, view, and manage custom recipes stored in a local **Room Database**.
 
 ---
 
